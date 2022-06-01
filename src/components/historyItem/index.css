@@ -1,0 +1,37 @@
+.History_item_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  box-shadow: inset;
+}
+.delete_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.time_of_history {
+  color: #64748b;
+  font-family: 'roboto';
+  padding: 10px;
+  font-size: 20px;
+  margin: 25px;
+}
+.title_of_history {
+  color: black;
+  font-family: 'roboto';
+  font-size: 20px;
+  padding: 10px;
+}
+.domain_of_history {
+  color: #64748b;
+  font-family: 'roboto';
+}
+.total_bar_input {
+  display: flex;
+  justify-content: space-between;
+}
+.image_size {
+  padding: 20px;
+}
